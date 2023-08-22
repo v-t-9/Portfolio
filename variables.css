@@ -1,0 +1,14 @@
+:root{
+    --violet:#c869ff;
+    --darkerViolet:#a054cc;
+    --lighterViolet:#db9cff;
+    --ultraLightViolet:#e9c3ff;
+    --ultraLightViolet2:#f9f0ff;
+    --black:#200727;
+    --monserrat: 'Montserrat',
+        sans-serif;
+    --poppins: 'Poppins',
+        sans-serif;
+    --opensans: 'Open Sans',
+        sans-serif;
+}
